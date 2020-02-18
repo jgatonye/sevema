@@ -7,6 +7,13 @@ body {
     color: #222;
 }
 
+.offset:before {
+    display: block;
+    content: "";
+    height: 4em;
+    margin-top: -4rem;
+}
+
 .navbar {
     padding: .8rem;
 }

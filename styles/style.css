@@ -88,17 +88,6 @@ body {
     margin: 1rem;
 }
 
-.fun {
-    width: 100%;
-    margin-bottom: 2rem;
-    font-size: 25px;
-    font-weight: bold;
-}
-
-.gif {
-    max-width: 80%;
-}
-
 .social a {
     font-size: 4em;
     padding: 3rem;
@@ -139,6 +128,12 @@ hr.light {
     width: 75%;
     margin-top: .8rem;
     margin-bottom: 1rem;
+}
+
+.soft-img img {
+    width: 150px;
+    padding: 10px;
+    border-radius: 75px;
 }
 
 
